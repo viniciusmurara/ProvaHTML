@@ -8,10 +8,9 @@
     --secondary-color: #ffffff;
 }
 
-main {
+main{
     font-family: Inter;
     font-style: normal;
-    color: var(--secondary-color);
 }
 
 .header{
@@ -76,6 +75,7 @@ main {
     align-items: center;
     justify-content: space-evenly;
     background-color: var(--primary-color);
+    color: var(--secondary-color);
     width: 165px;
     height: 54px;
     border-radius: 8px;
@@ -122,6 +122,7 @@ main {
 }
 
 .title-2{
+    color: var(--secondary-color);
     font-size: 32px;
     font-weight: 600;
     line-height: 120%;
@@ -133,3 +134,86 @@ main {
     margin-top: 16px;
 }
 
+.text-block-2, .text-block-3, .text-block-4{  
+    color: var(--secondary-color);
+    margin: 40px 10% 0 5%;
+}
+
+.icon-1, .icon-2, .icon-3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--secondary-color);
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+}
+
+.title-3, .title-4, .title-5{
+    margin: 16px 10% 0 0;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 120%;
+}
+
+.title-3{
+    margin-right: 20%;
+}
+
+.text-2, .text-3, .text-4{
+    margin-top: 8px;
+    font-size: 14px;
+    line-height: 150%;
+}
+
+.text-block-4{
+    padding-bottom: 56px;
+}
+
+.img-2{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    margin: 56px 5% 40px 5%;
+    background-color: #E0F1E0;
+    width: 89%;
+    border-radius: 8px;
+}
+
+.title-5{
+    margin: 0 7% 0 5%;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 120%;
+    letter-spacing: -0.32px;
+}
+
+.text-4{
+    margin: 16px 11% 0 5%;
+    color: #7E8492;
+    font-weight: 500;
+    line-height: 26px;
+}
+
+.green-button-2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    width: 180px;
+    height: 54px;
+    border-radius: 8px;
+    margin: 24px 0 0 5%;
+}
+
+.arrow-button-2{
+    margin-top: 5px;
+}
+
+.text-green-button-2{
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 26px;
+}
