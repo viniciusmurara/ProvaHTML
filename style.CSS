@@ -173,7 +173,7 @@ main{
 .img-2{
     display: flex;
     justify-content: center;
-    padding-top: 10px;
+    padding-top: 7px;
     margin: 56px 5% 40px 5%;
     background-color: #E0F1E0;
     width: 89%;
@@ -189,10 +189,11 @@ main{
 }
 
 .text-4{
-    margin: 16px 11% 0 5%;
+    margin: 16px 8% 0 5%;
     color: #7E8492;
     font-weight: 500;
     line-height: 26px;
+    font-size: 16px;
 }
 
 .green-button-2{
@@ -205,7 +206,7 @@ main{
     width: 180px;
     height: 54px;
     border-radius: 8px;
-    margin: 24px 0 0 5%;
+    margin: 24px 0px 112px 5%;
 }
 
 .arrow-button-2{
@@ -216,4 +217,22 @@ main{
     font-size: 16px;
     font-weight: 600;
     line-height: 26px;
+}
+
+.img-3{
+    display: flex;
+    justify-content: center;
+    padding-top: 14px;
+    margin: 0px 5% 40px 5%;
+    background-color: #E0F1E0;
+    width: 89%;
+    border-radius: 8px;
+}
+
+.text-5{
+    margin: 16px 9% 0 5%;
+    color: #7E8492;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 150%;
 }
