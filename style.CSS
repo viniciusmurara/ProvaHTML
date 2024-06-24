@@ -236,3 +236,60 @@ main{
     font-size: 14px;
     line-height: 150%;
 }
+
+.title-6{
+    margin-top: 72px;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 120%;
+}
+
+.section-6{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.text-name{
+    margin: 24px 0px 8px 0px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.text-cursive{
+    font-family: "Sonsie One";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #7E8492;
+}
+
+.loading{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 24px;
+}
+
+.number-1, .number-2{
+    font-weight: 500;
+    line-height: 26px;
+    color: #7E8492;
+}
+
+.rectangle-1{
+    width: 100%;
+    height: 3px;
+    background-color: #E0F1E0;
+}
+
+.rectangle-2{
+    width: 35%;
+    height: 3px;
+    background-color: #1D6362;
+}
+
+.img-4{
+    display: flex;
+    justify-content: center;
+    margin-top: 32px;
+}
