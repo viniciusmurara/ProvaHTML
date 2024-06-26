@@ -133,6 +133,7 @@ main{
 .text-1{
     color: #EDEDED;
     margin-top: 16px;
+    line-height: 26px;
 }
 
 .text-block-2, .text-block-3, .text-block-4{  
