@@ -291,5 +291,47 @@ main{
 .img-4{
     display: flex;
     justify-content: center;
-    margin-top: 32px;
+    margin: 32px 0px 56px 0px;
+}
+
+.container-5{
+    background-color: #E0F1E0;
+    padding: 56px 0px 56px 0px;
+}
+
+.background-element-2{
+    background-image: url(img/Element-2.svg);
+}
+
+.section-7{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.title-7{
+    color: #1D1E25;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 120%;
+    letter-spacing: -0.32px;
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.title-7 span{
+    color: #1D6362;
+}
+
+.text-6{
+    text-align: center;
+    width: 90%;
+    margin: 0 auto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 150%;
+    color: #7E8492;
+    padding: 16px 0px 40px 0px;
 }
