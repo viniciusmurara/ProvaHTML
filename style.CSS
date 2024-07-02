@@ -151,18 +151,18 @@ main{
     height: 40px;
 }
 
-.title-3, .title-4, .title-5{
+.title-3, .title-4, .title-3b{
     margin: 16px 10% 0 0;
     font-size: 18px;
     font-weight: 600;
     line-height: 120%;
 }
 
-.title-3{
+.title-3, .title-3b{
     margin-right: 20%;
 }
 
-.text-2, .text-3, .text-4{
+.text-2, .text-3, .text-2b{
     margin-top: 8px;
     font-size: 14px;
     line-height: 150%;
@@ -469,7 +469,7 @@ main{
     line-height: 160%;
 }
 
-.nav-bar, .redirect, .logo-2, .img-7{
+.nav-bar, .redirect, .logo-2, .img-7, .img-11{
     display: none;
 }
 
@@ -496,7 +496,7 @@ main{
         color: #1D6362;
     }
 
-    .menu-hamburguer, .logo, .img{
+    .menu-hamburguer, .logo, .img, .img-9{
         display: none;
     }
 
@@ -607,8 +607,10 @@ main{
 
     .text-block-2, .text-block-3, .text-block-4{
         display: flex;
-        justify-content: row;
-        width: 54.4%;
+        flex-direction: row;
+        justify-content: flex-end;
+        align-items: center;
+        width: 53.5%;
         margin-left: 7%;
     }
 
@@ -618,15 +620,58 @@ main{
         align-items: center;
         background-color: var(--secondary-color);
         border-radius: 100%;
-        width: 15%;
+        min-width: 72px;
         height: 72px;
     }
 
-    .title-3, .title-4{
+    .title-3, .title-4, .title-3b{
         margin-left: 5%;
         font-size: 32px;
         font-weight: 600;
         line-height: 115%;
+    }
+
+    .title-3 p, .title-3b p{
+        width: 145%;
+    }
+
+    .img-8, .img-11{
+        display: block;
+        width: 40px;
+        height: 40px;
+    }
+
+    .img-10{
+        width: 50px;
+        height: 50px;
+    }
+
+    .text-2, .text-3, .text-2b{
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 32px;
+    }
+
+    .text-2{
+        margin-left: -30px;
+    }
+
+    .text-3{
+        width: 100%;
+        margin-left: -30px;
+        margin-right: 10px;
+    }
+
+    .text-2b{
+        margin-left: -90px;
+    }
+
+    .text-block-1{
+        padding-top: 92px;
+    }
+
+    .text-block-4{
+        padding-bottom: 92px;
     }
 
 }
