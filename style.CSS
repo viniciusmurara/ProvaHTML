@@ -473,6 +473,10 @@ main{
     display: none;
 }
 
+.background-element-3{
+    background-image: none;
+}
+
 @media(min-width: 991px){
     .header{
         font-family: Inter;
@@ -498,6 +502,11 @@ main{
 
     .menu-hamburguer, .logo, .img, .img-9{
         display: none;
+        
+    }
+
+    .background-element{
+        background-image: none;
     }
 
     .redirect{
@@ -674,4 +683,39 @@ main{
         padding-bottom: 92px;
     }
 
+    .background-element-3{
+        background-image: url(img/Element-3.svg);
+    }
+    
+    .container-2{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        
+    }
+
+    .img-2{
+        padding: 15px 25px 0px 25px;
+        margin: 92px 0 0 20%;
+    }
+
+    .img-2 img{
+        width: 529px;
+        height: 486px;
+    }
+
+    .title-5{
+        font-size: 56px;
+        font-weight: 600;
+        line-height: 120%;
+        letter-spacing: -0.56px;
+    }
+
+    .text-4{
+        margin-right: 40%;
+    }
+
+    .section-2{
+        margin: 132.5px 0px 0px 17%;
+    }
 }
