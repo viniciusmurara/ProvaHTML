@@ -469,7 +469,7 @@ main{
     line-height: 160%;
 }
 
-.nav-bar, .redirect, .logo-2, .img-7, .img-11, .section-14, .section-16{
+.nav-bar, .redirect, .logo-2, .img-7, .img-11, .section-14, .section-16, .rectangle-4, .services, .about, .help, .logos-2{
     display: none;
 }
 
@@ -500,9 +500,8 @@ main{
         color: #1D6362;
     }
 
-    .menu-hamburguer, .logo, .img, .img-9{
+    .menu-hamburguer, .logo, .img, .img-9, .logos{
         display: none;
-        
     }
 
     .background-element{
@@ -532,18 +531,28 @@ main{
     .block-1{
         display: flex;
         flex-direction: column;
+        width: 44%;
+    }
 
+    .block-2{
+        width: 52%;
     }
 
     .img-7{
         display: flex;
-        width: 719px;
-        padding: 38px 42px 0px 0px;
+        width: 100%;
+        margin-top: 38px;
+    }
+
+    .img-7 img{
+        width: 100%;
+        height: 100%;
     }
 
     .section-12{
         display: flex;
         padding-bottom: 68px;
+        margin-right: 42px;
     }
 
     .green-background{
@@ -709,7 +718,7 @@ main{
     }
 
     .title-5{
-        font-size: 56px;
+        font-size: 3.889vw;
         font-weight: 600;
         line-height: 120%;
         letter-spacing: -0.56px;
@@ -731,7 +740,7 @@ main{
 
     .section-3{
         padding: 0;
-        margin: 0px 6% 0px 0px;
+        margin: 0px 43px 0px 0px;
         width: 50%;
     }
 
@@ -895,5 +904,93 @@ main{
     .section-16{
         margin-right: 4.2%;
         margin-top: 70px;
+    }
+
+    .section-9{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 83.4%;
+        margin: 0 auto;
+        padding-top: 112px;
+        flex-wrap: wrap;
+    }
+
+    .section-17{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+
+    .green-button-4{
+        margin-left: 8%;
+    }
+
+    .text-8{
+        width: 180px;
+        margin: 0 auto;
+    }
+
+    .rectangle-4{
+        display: block;
+        background-color: #E9ECEF;
+        width: 100%;
+        height: 1px;
+        margin-top: 30px;
+    }
+
+    .services, .about, .help{
+        display: block;
+    }
+
+    .container-8{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: space-between;
+        width: 70%;
+        margin: 40px 0px 0px 120px;
+    }
+
+    .section-10{
+        width: 29%;
+        margin: 0;
+    }
+
+    .title-9{
+        width: 100%;
+        color: #1D1E25;
+    }
+
+    .services p, .about p, .help p{
+        color: #1D1D21;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 26px;
+        margin-bottom: 14px;
+    }
+
+    .services h3, .about h3, .help h3{
+        color: #101010;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 120%;
+        margin-bottom: 20px;
+    }
+
+    .section-11{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 84.3%;
+        margin: 0px 107px 0px 120px;
+    }
+
+    .logos-2{
+        display: block;
+    }
+
+    .text-terms{
+        margin-right: 55px;
     }
 }
