@@ -211,10 +211,6 @@ main{
     margin: 24px 0px 56px 5%;
 }
 
-.green-button-3{
-    margin: 24px 0px 56px 0px;
-}
-
 .arrow-button-2, .arrow-button-3{
     margin-top: 5px;
 }
@@ -377,7 +373,11 @@ main{
     font-weight: 500;
     line-height: 150%;
     color: #7E8492;
-    margin-top: 16px;
+    margin: 16px 0px 24px 0px;
+}
+
+.green-button-3{
+    margin: 0 auto;
 }
 
 .footer{
@@ -390,7 +390,7 @@ main{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    margin: 56px auto 0px auto;
+    margin: 112px auto 0px auto;
     text-align: center;
 }
 
@@ -469,7 +469,7 @@ main{
     line-height: 160%;
 }
 
-.nav-bar, .redirect, .logo-2, .img-7, .img-11{
+.nav-bar, .redirect, .logo-2, .img-7, .img-11, .section-14, .section-16{
     display: none;
 }
 
@@ -849,5 +849,51 @@ main{
 
     .section-8{
         margin: 92px 7% 0px 0px;
+    }
+
+    .container-6{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        padding-top: 80px;
+        flex-wrap: nowrap;
+        margin: 0 auto;
+    }
+
+    .section-15{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 70%;
+    }
+
+    .title-8{
+        font-size: 56px;
+        font-weight: 600;
+        line-height: 120%;
+        letter-spacing: -0.56px;
+        margin: 0px;
+    }
+
+    .text-7{
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 32px;
+        margin: 16px 0px 40px 0px;
+        width: 70%;
+    }
+
+    .section-14, .section-16{
+        display: block;
+    }
+
+    .section-14{
+        margin-left: 5.4%;
+    }
+
+    .section-16{
+        margin-right: 4.2%;
+        margin-top: 70px;
     }
 }
