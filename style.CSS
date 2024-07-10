@@ -469,7 +469,8 @@ main{
     line-height: 160%;
 }
 
-.nav-bar, .redirect, .logo-2, .img-7, .img-11, .section-14, .section-16, .rectangle-4, .services, .about, .help, .logos-2{
+.nav-bar, .redirect, .logo-2, .img-7, .img-11, .section-14, .section-16, .rectangle-4, .services, .about, .help,
+ .logos-2, .secao-2{
     display: none;
 }
 
@@ -477,7 +478,7 @@ main{
     background-image: none;
 }
 
-@media(min-width: 991px){
+@media(min-width: 1023px){
     .header{
         font-family: Inter;
         font-style: normal;
@@ -605,8 +606,9 @@ main{
     .text-block-1{
         display: flex;
         flex-direction: column;
-        width: 54.4%;
+        width: 70%;
         margin-left: 7%;
+        padding-top: 92px;
     }
 
     .title-2{
@@ -628,7 +630,7 @@ main{
         flex-direction: row;
         justify-content: flex-end;
         align-items: center;
-        width: 53.5%;
+        width: 66.8%;
         margin-left: 7%;
     }
 
@@ -647,10 +649,11 @@ main{
         font-size: 32px;
         font-weight: 600;
         line-height: 115%;
+        width: 50%;
     }
 
     .title-3 p, .title-3b p{
-        width: 145%;
+        width: 165%;
     }
 
     .img-8, .img-11{
@@ -670,26 +673,34 @@ main{
         line-height: 32px;
     }
 
-    .text-2{
-        margin-left: -30px;
-    }
-
     .text-3{
-        width: 100%;
-        margin-left: -30px;
-        margin-right: 10px;
+        width: 65%;
     }
 
-    .text-2b{
-        margin-left: -90px;
-    }
-
-    .text-block-1{
-        padding-top: 92px;
+    .text-2, .text-2b{
+        width: 94%
     }
 
     .text-block-4{
         padding-bottom: 92px;
+    }
+
+    .secao-1{
+        margin-left: 30px;
+    }
+
+    .secao-2{
+        display: flex;
+        justify-content: flex-end;
+        align-self: center;
+        width: 366px;
+        height: 366px;
+        margin-top: 200px;
+    }
+
+    .background-element-3{
+        display: flex;
+        flex-direction: row;
     }
 
     .background-element-3{
