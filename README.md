@@ -23,10 +23,12 @@ Mobile (375px) / Desktop (1440px)<br>
 
 ## Como Acessar?
 
-Passo 1: Baixar o Arquivo Zipado<br>
-Passo 2: Descompactar o Arquivo Zipado<br>
+Passo 1: Baixar o arquivo zipado<br>
+Passo 2: Descompactar o arquivo zipado<br>
 Passo 3: Instalar o Visual Studio Code<br>
-Passo 4: Abrir a Pasta no Visual Studio Code
+Passo 4: Abrir a pasta descompactada no Visual Studio Code<br>
+Passo 5: Instalar a extensão do Live Server
+Passo 6: Rodar o index.html com o Go Live
 
 Clique [aqui](https://site-coca.vercel.app/) para acessar o arquivo do código<br>
 Clique [aqui](https://site-coca.vercel.app/) para acessar o site
