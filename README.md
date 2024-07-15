@@ -3,10 +3,16 @@
 Atividade Avaliativa: Criar um site usando um layout fornecido no Figma
 
 ## Índice
+- <a href="#autor-do-projeto">Autor do Projeto</a>
 - <a href="#layout">Layout</a>
 - <a href="#demonstração">Demonstração</a>
 - <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a>
-- <a href="#autor-do-projeto">Autor do Projeto</a>
+
+## Autor do Projeto
+Autor: Vinicius Vieira Murara<br>
+Turma: MI-75
+
+<img style="width: 250px" src="./img/autor.jpeg">
 
 ## Layout
 ![tela-mobile](./img/TelaMobile2.png)
@@ -20,9 +26,3 @@ Atividade Avaliativa: Criar um site usando um layout fornecido no Figma
 2. [Figma](https://www.figma.com/pt-br/)
 3. [Github](https://github.com/)
 4. [Github Desktop](https://github.com/apps/desktop)
-
-## Autor do Projeto
-Autor: Vinicius Vieira Murara<br>
-Turma: MI-75
-
-<img style="width: 250px" src="./img/autor.jpeg">
