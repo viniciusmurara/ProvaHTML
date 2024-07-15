@@ -26,3 +26,4 @@ Turma: MI-75
 2. [Figma](https://www.figma.com/pt-br/)
 3. [Github](https://github.com/)
 4. [Github Desktop](https://github.com/apps/desktop)
+5. [Vercel](https://vercel.com/)
