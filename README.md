@@ -12,11 +12,12 @@ Atividade Avaliativa: Criar um site usando um layout fornecido no Figma
 Autor: Vinicius Vieira Murara<br>
 Turma: MI-75
 
-<img style="width: 250px" src="./img/autor.jpeg">
+<img style="width: 200px" src="./img/autor.jpeg">
 
 ## Layout
-![tela-mobile](./img/TelaMobile2.png)
-![tela-desktop](./img/TelaDesktop.png)
+
+<img style="width: 100px" src="./img/TelaMobile2.png">
+<img style="width: 300px" src="./img/TelaDesktop.png">
 
 ## Demonstração
 - [Link de acesso](https://site-coca.vercel.app/)
