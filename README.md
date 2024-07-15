@@ -16,7 +16,7 @@ Turma: MI-75
 
 ## Layout
 
-<img style="width: 128px" src="./img/TelaMobile2.png"> <img style="width: 461px" src="./img/TelaDesktop.png">
+<img style="width: 128px" src="./img/TelaMobile2.png"> <img style="width: 465px" src="./img/TelaDesktop.png">
 
 
 ## Demonstração
