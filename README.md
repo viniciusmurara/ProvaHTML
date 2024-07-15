@@ -1,6 +1,6 @@
 # Projeto Réplica de Site
 ![Logo](./img/Logo-2.svg)<br>
-Site criado usando um layout fornecido no Figma
+Site criado usando um layout fornecido no Figma<br>
 Clique [aqui](https://www.figma.com/design/9usmfDIfYbEvxziDRXWMSq/PWMO-MI75-(Copy)?node-id=0-1&t=wkNe0HbZSrzn6ZuO-1) para acessar o design replicado 
 <br>
 
