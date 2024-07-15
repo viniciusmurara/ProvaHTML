@@ -20,13 +20,11 @@ Turma: AI PSIN MI-75
 Mobile (375px) / Desktop (1440px)<br>
 
 <img style="width: 124px" src="./img/TelaMobile2.png"> <img style="width: 448px" src="./img/TelaDesktop.png">
-<br>
 
 ## Como Usar?
 Aqui terá o tutorial de como baixar, acessar e navegar pelo código no VSCODE
 
 Clique [aqui](https://site-coca.vercel.app/) para acessar o site
-<br>
 
 ## Ferramentas Utilizadas
 1. [Visual Studio Code](https://code.visualstudio.com/)
