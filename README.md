@@ -8,7 +8,6 @@ Site criado usando um layout fornecido no Figma
 - <a href="#layouts">Layouts</a>
 - <a href="#como-usar">Como Usar?</a>
 - <a href="#ferramentas-utilizadas">Ferramentas Utilizadas</a>
-<br>
 
 ## Autor do Projeto
 Autor: Vinicius Vieira Murara<br>
