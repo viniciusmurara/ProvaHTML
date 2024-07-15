@@ -15,7 +15,8 @@ Turma: AI PSIN MI-75
 <img style="width: 200px" src="./img/autor.jpeg">
 
 ## Layouts
-Layout Principal Mobile / Desktop<br>
+Layout Home Mobile / Desktop<br>
+
 <img style="width: 124px" src="./img/TelaMobile2.png"> <img style="width: 448px" src="./img/TelaDesktop.png">
 
 
