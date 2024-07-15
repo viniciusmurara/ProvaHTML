@@ -16,8 +16,8 @@ Turma: MI-75
 
 ## Layout
 
-<img style="width: 100px" src="./img/TelaMobile2.png">
-<img style="width: 300px" src="./img/TelaDesktop.png">
+<img style="width: 100px" src="./img/TelaMobile2.png"> <img style="width: 300px" src="./img/TelaDesktop.png">
+
 
 ## Demonstração
 - [Link de acesso](https://site-coca.vercel.app/)
