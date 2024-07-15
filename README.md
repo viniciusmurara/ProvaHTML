@@ -1,6 +1,6 @@
 # Projeto Réplica de Site
 ![Logo](./img/Logo-2.svg)<br>
-Atividade Avaliativa: Criar um site usando um layout fornecido no Figma
+Site criado usando um layout fornecido no Figma
 
 ## Índice
 - <a href="#autor-do-projeto">Autor do Projeto</a>
