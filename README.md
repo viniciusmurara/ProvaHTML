@@ -6,7 +6,7 @@ Site criado usando um layout fornecido no Figma
 ## Índice
 - <a href="#autor-do-projeto">Autor do Projeto</a>
 - <a href="#layouts">Layouts</a>
-- <a href="#como-usar">Como Usar?</a>
+- <a href="#como-acessar">Como Acessar?</a>
 - <a href="#ferramentas-utilizadas">Ferramentas Utilizadas</a>
 
 ## Autor do Projeto
@@ -21,12 +21,14 @@ Mobile (375px) / Desktop (1440px)<br>
 
 <img style="width: 124px" src="./img/TelaMobile2.png"> <img style="width: 448px" src="./img/TelaDesktop.png">
 
-## Como Usar?
-Passo 1: Baixar o Arquivo Zipado
-Passo 2: Descompactar o Arquivo Zipado
-Passo 3: Instalar o Visual Studio Code
+## Como Acessar?
+
+Passo 1: Baixar o Arquivo Zipado<br>
+Passo 2: Descompactar o Arquivo Zipado<br>
+Passo 3: Instalar o Visual Studio Code<br>
 Passo 4: Abrir a Pasta no Visual Studio Code
 
+Clique [aqui](https://site-coca.vercel.app/) para acessar o arquivo do código<br>
 Clique [aqui](https://site-coca.vercel.app/) para acessar o site
 
 ## Ferramentas Utilizadas
