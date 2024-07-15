@@ -22,7 +22,10 @@ Mobile (375px) / Desktop (1440px)<br>
 <img style="width: 124px" src="./img/TelaMobile2.png"> <img style="width: 448px" src="./img/TelaDesktop.png">
 
 ## Como Usar?
-Aqui terá o tutorial de como baixar, acessar e navegar pelo código no VSCODE
+Passo 1: Baixar o Arquivo Zipado
+Passo 2: Descompactar o Arquivo Zipado
+Passo 3: Instalar o Visual Studio Code
+Passo 4: Abrir a Pasta no Visual Studio Code
 
 Clique [aqui](https://site-coca.vercel.app/) para acessar o site
 
