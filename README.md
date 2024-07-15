@@ -1,6 +1,7 @@
 # Projeto Réplica de Site
 ![Logo](./img/Logo-2.svg)<br>
 Site criado usando um layout fornecido no Figma
+Clique [aqui](https://www.figma.com/design/9usmfDIfYbEvxziDRXWMSq/PWMO-MI75-(Copy)?node-id=0-1&t=wkNe0HbZSrzn6ZuO-1) para acessar o design replicado 
 <br>
 
 ## Índice
@@ -30,7 +31,6 @@ Passo 4: Abrir a pasta descompactada no Visual Studio Code<br>
 Passo 5: Instalar a extensão do Live Server
 Passo 6: Rodar o index.html com o Go Live
 
-Clique [aqui](https://site-coca.vercel.app/) para acessar o arquivo do código<br>
 Clique [aqui](https://site-coca.vercel.app/) para acessar o site
 
 ## Ferramentas Utilizadas
