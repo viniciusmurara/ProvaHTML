@@ -1,12 +1,13 @@
 # Projeto Réplica de Site
 ![Logo](./img/Logo-2.svg)<br>
-Site criado usando um layout fornecido no Figma
+Site criado usando um layout fornecido no Figma<br>
+Clique [aqui](https://www.figma.com/design/9usmfDIfYbEvxziDRXWMSq/PWMO-MI75-(Copy)?node-id=0-1&t=wkNe0HbZSrzn6ZuO-1) para acessar o design replicado 
 <br>
 
 ## Índice
 - <a href="#autor-do-projeto">Autor do Projeto</a>
 - <a href="#layouts">Layouts</a>
-- <a href="#como-usar">Como Usar?</a>
+- <a href="#como-acessar">Como Acessar?</a>
 - <a href="#ferramentas-utilizadas">Ferramentas Utilizadas</a>
 
 ## Autor do Projeto
@@ -20,8 +21,14 @@ Mobile (375px) / Desktop (1440px)<br>
 
 <img style="width: 124px" src="./img/TelaMobile2.png"> <img style="width: 448px" src="./img/TelaDesktop.png">
 
-## Como Usar?
-Aqui terá o tutorial de como baixar, acessar e navegar pelo código no VSCODE
+## Como Acessar?
+
+Passo 1: Baixar o arquivo zipado<br>
+Passo 2: Descompactar o arquivo zipado<br>
+Passo 3: Instalar o Visual Studio Code<br>
+Passo 4: Abrir a pasta descompactada no Visual Studio Code<br>
+Passo 5: Instalar a extensão do Live Server
+Passo 6: Rodar o index.html com o Go Live
 
 Clique [aqui](https://site-coca.vercel.app/) para acessar o site
 
