@@ -15,7 +15,6 @@ Turma: AI PSIN MI-75
 
 <img style="width: 200px" src="./img/autor.jpeg">
 
-
 ## Layouts
 Mobile (375px) / Desktop (1440px)<br>
 
